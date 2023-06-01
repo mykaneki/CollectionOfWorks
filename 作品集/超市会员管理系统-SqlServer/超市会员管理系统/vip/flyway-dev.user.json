@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "developmentDatabase": {
+    "connectionProvider": {
+      "url": "jdbc:sqlserver://127.0.0.1:1433;encrypt=false;trustServerCertificate=true;databaseName=vipone",
+      "username": "sa",
+      "password": {
+        "name": "Flyway Desktop e3c13ecb-47e5-4781-ba45-42d30aa6dd96",
+        "secretType": "DefaultSecretStore"
+      },
+      "type": "UsernamePassword"
+    }
+  }
+}
